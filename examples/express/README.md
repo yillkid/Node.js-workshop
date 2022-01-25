@@ -1,5 +1,5 @@
 ## Installation
-$ cnpm install express --save
+$ npm install express --save
 
 ## Modules
 $ npm install body-parser --save
